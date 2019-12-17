@@ -1,2 +1,2 @@
-# sidebar-template-anak-it
-Latihan Templating Anak-IT
+# Initial page
+
